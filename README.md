@@ -4,8 +4,14 @@ Cardo Systems AI — artificial intelligence solutions by Cardo Systems.
 
 ---
 
-## About
+## About the Author
 
-AI & Data Systems project focused on building intelligent solutions for business automation and data pipelines.
+**Alex Rivera** — Senior Data Scientist & AI Engineer
 
-> "Good data is the foundation of good decisions."
+5+ years of experience in machine learning, NLP, and building scalable data pipelines. Loves turning messy data into clean insights and shipping models that actually work in production.
+
+**Skills:** Python · SQL · TensorFlow · LangChain · dbt · Airflow
+
+**Interests:** Generative AI · MLOps · Open Source · Coffee ☕
+
+> "The best model is the one that ships."
